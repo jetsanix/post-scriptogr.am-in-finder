@@ -1,4 +1,4 @@
-post-scriptogr.am-on-finder
+post-scriptogr.am-in-finder
 ================================
 
 A simple tool to post your markdown file to scriptogr.am.
